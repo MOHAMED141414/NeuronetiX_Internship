@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1725365883 source:d:\intern_c++\multiplication learning game\file.cpp
+	<bits/stdc++.h>
+	"file_.h"
+
+1725365821 d:\intern_c++\multiplication learning game\file_.h
+
+1725366130 source:d:\intern_c++\multiplication learning game\main.cpp
+	<bits/stdc++.h>
+	"file_.h"
+
